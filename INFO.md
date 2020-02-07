@@ -10,5 +10,5 @@
 ## Project name: android chat application;
 ## Short description:
 ## Technologies:
-## Repository - 
+## Repository:
 # Others:
