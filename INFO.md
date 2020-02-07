@@ -6,9 +6,9 @@
 ### 3) Architector - Kiril Grishuk;
 ### 4) Designer - Pavel Rudenya;
 ### 5) - Alexey Mikhailov;
-#Project
+# Project
 ## Project name: android chat application;
 ## Short description:
 ## Technologies:
 ## Repository - 
-#Others:
+# Others:
